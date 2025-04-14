@@ -9,14 +9,14 @@ This report reflects on whether I have met the learning goals of the MS Applied 
 __Content__
 
 - IST692
-- IST718
 - IST707
-- IST737
+- IST718
 - ADS_Portfolio_Overview.docx
-- Mervin_McDougall_Resume.pdf
 - ADS_Portfolio_Reflection.docx
 - ADS_Portfolio_Reflection_Deck.pptx
-- Portfolio_reflection_v4.mp4
 - LICENSE
+- Mervin_McDougall_Resume.pdf
+- Portfolio_reflection_v4.mp4
 - README
+
 
