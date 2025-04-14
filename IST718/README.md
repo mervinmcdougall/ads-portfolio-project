@@ -48,6 +48,6 @@ Several risks could impact our project, including:
 [^1]:Reddit. (n.d.). *Content Moderation, Enforcement, and Appeals*. Retrieved from [Reddit Help](https://support.reddithelp.com/hc/en-us/articles/23511059871252-Content-Moderation-Enforcement-and-Appeals#:~:text=When%20our%20automated%20systems%20find,Policy%2C%20it%20is%20removed%20automatically).  
 [^2]:O’Donnell, L. (2024, March 7). *Reddit introduces AI-powered harassment filter*. Retrieved from [The Register](https://www.theregister.com/2024/03/07/reddit_introduces_aipowered_harassment_filter/).  
 [^3]:CNA. (2024). *Reddit may need to ramp up spending on content moderation, analysts say*. Retrieved from [ChannelNews Asia](https://www.channelnewsasia.com/business/reddit-may-need-ramp-spending-content-moderation-analysts-say-4214801).  
-[^4]:Hugging Face. (n.d.). *Reddit Questions with Best Answers Dataset*. Retrieved from Hugging Face Datasets.  
+[^4]:Hugging Face. (n.d.). *Reddit Questions with Best Answers Dataset*. Retrieved from [Hugging Face Datasets](https://huggingface.co/datasets/nreimers/reddit_question_best_answers).  
 [^5]:Hugging Face. (n.d.). *unitary/toxic-bert*. Hugging Face. Retrieved from [https://huggingface.co/unitary/toxic-bert](https://huggingface.co/unitary/toxic-bert)
 
