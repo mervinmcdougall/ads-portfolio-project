@@ -16,7 +16,7 @@ __Content__
 - ADS_Portfolio_Reflection_Deck.pptx
 - LICENSE
 - Mervin_McDougall_Resume.pdf
-- Portfolio_reflection_v4.mp4
-- README
+- portfolio_reflection_v4.mp4
+- README.md
 
 
