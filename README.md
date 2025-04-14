@@ -2,6 +2,10 @@
 
 __by Mervin McDougall__
 
+## Purpose
+
+This report reflects on whether I have met the learning goals of the MS Applied Data Science program and demonstrated competency in applying these goals throughout my academic career at Syracuse University.
+
 __Content__
 
 - IST692
